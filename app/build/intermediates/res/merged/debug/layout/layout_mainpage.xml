@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEDED"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/top_all"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:background="#FFFAFA"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/backIB"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/btn_left_32" />
+
+        <TextView
+            android:id="@+id/order_all"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center|left"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="@dimen/txt_14" />
+
+        <TextView
+            android:id="@+id/order_checkall"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:layout_weight="0.8"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/btn_right"
+            android:gravity="center|right"
+            android:text="已接单"
+            android:textSize="@dimen/txt_14" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/checkorder_waitgolist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top_all"
+        android:divider="#00000000"
+        android:dividerHeight="10dp" >
+    </ListView>
+
+</RelativeLayout>

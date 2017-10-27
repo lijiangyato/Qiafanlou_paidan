@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/MoreMsg_Cancel"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@null"
+        android:gravity="center|right"
+        android:paddingRight="10dp"
+        android:hint="@string/order_payonface"
+        android:textColor="@color/white"
+        android:textSize="@dimen/txt_12" />
+
+    <TextView
+        android:id="@+id/MoreMsg_moreMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|center"
+        android:paddingLeft="10dp"
+        android:singleLine="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/txt_14" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_detailorderscrollview.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_detailorderscrollview.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_welcome.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_welcome.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_findinputnewpwd.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_findinputnewpwd.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_firstactivity.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_firstactivity.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_allorderitem.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_allorderitem.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_findpwdgetcode.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_findpwdgetcode.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tophead.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\tophead.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_showmoremsg.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_showmoremsg.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_detailordergoodsitem.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_detailordergoodsitem.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_logintophead.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_logintophead.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_findpwdok.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_findpwdok.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divider_line.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\divider_line.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_orderbottom.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_orderbottom.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mydialog.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_mydialog.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mycheckalllist.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_mycheckalllist.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_checkorderdetailmsg.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_checkorderdetailmsg.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loginbynamepwd.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_loginbynamepwd.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mainpage.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\layout\\layout_mainpage.xml"
+    }
+]

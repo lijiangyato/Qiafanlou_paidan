@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/detailorder_goodsImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/icon" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/detailorder_goodsname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:gravity="left"
+                android:paddingTop="5dp"
+                android:paddingLeft="10dp"
+                android:text="少时诵诗书"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/txt_14" />
+
+            <TextView
+                android:id="@+id/detailorder_goodsPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:gravity="left"
+                 android:paddingTop="5dp"
+                android:paddingLeft="10dp"
+                android:text="少时诵诗书"
+                android:textColor="#cc0000"
+                android:textSize="@dimen/txt_14" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/detailorder_goodsNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
+            android:background="#fff"
+            android:gravity="center"
+            android:text="少时诵诗书"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/detailorder_goodsMark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:background="#fff"
+        android:gravity="left|center"
+        android:padding="5dp"
+        android:text="少时诵诗书"
+        android:textColor="@color/gray"
+        android:textSize="@dimen/txt_12" />
+
+</LinearLayout>

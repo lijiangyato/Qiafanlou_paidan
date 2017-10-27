@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/CheckAllOrderActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/FindPwdGetIdentifyCodeActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/FindPwdInputNewPwdActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/FindPwdSuccessActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/FirstPageActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/MainPageActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/activity/WelcomActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/entity/DetailOrderEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ings/gogopaidan/save/SaveLong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gradle" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\deadtimal_normal.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\drawable-hdpi\\deadtimal_normal.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\deadtimal_click.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\drawable-hdpi\\deadtimal_click.xml"
+    },
+    {
+        "merged": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detailfoodsbg.xml",
+        "source": "H:\\Androidbao\\HomeHui\\Qiafanlou_paidan\\app\\src\\main\\res\\drawable-hdpi\\detailfoodsbg.xml"
+    }
+]

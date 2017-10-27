@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/detailOrder_detailOrderTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:gravity="left"
+                    android:padding="5dp"
+                    android:paddingLeft="10dp"
+                    android:text="下单时间"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/txt_14" />
+
+                <TextView
+                    android:id="@+id/detailOrder_detailOrderNo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:gravity="left"
+                    android:padding="5dp"
+                    android:paddingLeft="10dp"
+                    android:text="订单号"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/txt_14" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <include layout="@layout/divider_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/orderlist_orderdetal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:background="#fff"
+                android:gravity="left"
+                android:paddingLeft="10dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/txt_14" />
+
+            <TextView
+                android:id="@+id/orderlist_orderstate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="#fff"
+                android:gravity="right"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/txt_14" />
+        </LinearLayout>
+
+        <include
+            layout="@layout/divider_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp" />
+
+        <ListView
+            android:id="@+id/detailOrder_goodsMsgLV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></ListView>
+
+        <include
+            layout="@layout/divider_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/detailOrder_detailUserMsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+
+        <TextView
+            android:id="@+id/detailOrder_detailAddressMsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+
+        <include
+            layout="@layout/divider_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/detailOrder_detailPayWay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+
+        <TextView
+            android:id="@+id/detailOrder_detailPayTotalMoney"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+
+        <TextView
+            android:id="@+id/detailOrder_detailPayPostMoney"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+
+        <TextView
+            android:id="@+id/name_beizhu_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:background="#fff"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:text="备注"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/txt_14" />
+    </LinearLayout>
+
+</ScrollView>

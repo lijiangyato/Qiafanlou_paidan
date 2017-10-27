@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="#EDEDED"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/checkdetail_tittle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/personal_height"
+        android:layout_alignParentTop="true"
+        android:background="#FFFAFA"
+        android:drawableLeft="@drawable/btn_left_32"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/myorder_detail"
+        android:textSize="@dimen/txt_16" />
+
+    <include
+        android:id="@+id/regist_divide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/checkdetail_tittle"
+        layout="@layout/divider_line" />
+
+    <include
+        android:id="@+id/checkdetail_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/regist_divide"
+        layout="@layout/layout_detailorderscrollview" />
+
+</RelativeLayout>

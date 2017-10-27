@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_0fa391302d7523f3283c55870a5d4f54d3376629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\b4aa211716cd4f22f8c295e2d8e6bc6228d333cf\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_393124f5e245e9da87af84495243b11e57b99e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\b4aa211716cd4f22f8c295e2d8e6bc6228d333cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\classes_032a708c2ee297fbf0ac2d8b0204905243c755f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\libs\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\okio-1.9.0_4cd91ecd5380cbb31509d771f14d4091a9bfbe9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-with-sources_0604743a380385d43e1cf1a4c6619f2705e02145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\intermediates\pre-dexed\debug\gson-2.3.1_b871dc0708004d951dd5c7391e9ffb1bc707ed50.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\admin\.android\build-cache\b4aa211716cd4f22f8c295e2d8e6bc6228d333cf\output\assets"/></dataSet><dataSet config="main"><source path="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\src\main\assets"/><source path="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\Androidbao\HomeHui\Qiafanlou_paidan\app\src\debug\assets"/></dataSet></merger>

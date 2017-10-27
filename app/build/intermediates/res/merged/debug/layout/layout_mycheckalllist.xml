@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEDED"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/checkorder_allback"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/personal_height"
+        android:layout_alignParentTop="true"
+        android:background="#FFFAFA"
+        android:drawableLeft="@drawable/btn_left_32"
+        android:drawablePadding="10dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/myorder"
+        android:textSize="@dimen/txt_14" />
+
+    <include
+        android:id="@+id/regist_divide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/checkorder_allback"
+        layout="@layout/divider_line" />
+
+    <ListView
+        android:id="@+id/checkorder_alllist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/regist_divide"
+        android:divider="#00000000"
+        android:dividerHeight="10dp" >
+    </ListView>
+
+</RelativeLayout>
